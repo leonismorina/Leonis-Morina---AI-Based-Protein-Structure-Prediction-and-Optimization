@@ -1,0 +1,7 @@
+{
+  "slug": "protein-structure-prediction",
+  "title": "AI-Based Protein Structure Prediction and Optimization",
+  "kind": "custom",
+  "source": "professor brief (see PROBLEM.md)",
+  "summary": "Fold an amino-acid sequence on a 2D/3D lattice minimising an energy function; at least two search algorithms (GA, SA, beam, B&B…), search-space reduction, local improvement, experiments."
+}
